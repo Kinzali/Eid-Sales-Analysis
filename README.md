@@ -1,6 +1,11 @@
 # Eid-Sales-Analysis
 Python Project - Analyze the Eid sales to improve customer service and sales.
 
+## Setup
+
+Installing Jupyter Notebook: https://jupyter.readthedocs.io/en/latest/install.html
+Installing Pandas library: https://pandas.pydata.org/pandas-docs/stable/install.html
+
 ## Objectives
 
 * Which gender holds the highest purchasing power?
